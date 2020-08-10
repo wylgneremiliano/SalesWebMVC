@@ -33,4 +33,11 @@ D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.dll
 D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+D:\.NET\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+D:\.NET\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Create.cshtml.g.cs
+D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Delete.cshtml.g.cs
+D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
+D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
+D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
 D:\.NET\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
