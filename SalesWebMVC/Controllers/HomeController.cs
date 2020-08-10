@@ -14,13 +14,14 @@ namespace SalesWebMVC.Controllers {
 
         public IActionResult About() {
             ViewData["Message"] = "Your application description page.";
-
+            ViewData["email"] = "wylgneremiliano@gmail.com";
             return View();
         }
 
         public IActionResult Contact() {
-            ViewData["Message"] = "Your contact page.";
 
+            ViewData["Message"] = "Your contact page.";
+            
             return View();
         }
 
